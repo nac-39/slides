@@ -1,6 +1,6 @@
 {
     "markdown.marp.themes": [
-        "slide/theme.css"
+        "jack-lt-2022-fall/theme.css"
     ],
     "markdown.marp.enableHtml": true
 }
