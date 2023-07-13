@@ -1,6 +1,7 @@
 {
     "markdown.marp.themes": [
-        "jack-lt-2022-fall/theme.css"
+        "jack-lt-2022-fall/theme.css",
+        "https://raw.githubusercontent.com/rnd195/my-marp-themes/live/gradient.css"
     ],
     "markdown.marp.enableHtml": true
 }
